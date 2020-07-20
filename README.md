@@ -1,3 +1,5 @@
+# *Repo for a Summer of Tech session*
+
 # web-basics-hello-world
 A simple web page to show off the basics for getting started with web development (html, css, js...).
 
